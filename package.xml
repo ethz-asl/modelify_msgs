@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>modelify_msgs</name>
+  <version>0.0.0</version>
+  <description>Message definitions to transfer object segments between GSM and modelify.</description>
+
+  <maintainer email="fadri.furrer@mavt.ethz.ch">Fadri Furrer</maintainer>
+  <author>Fadri Furrer</author>
+  <author>Marius Fehr</author>
+  <author>Tonci Novkovic</author>
+  <author>Abel Gawel</author>
+  <author>Margarita Grinvald</author>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <depend>geometry_msgs</depend>
+  <depend>message_generation</depend>
+  <depend>message_runtime</depend>
+  <depend>sensor_msgs</depend>
+  <depend>std_msgs</depend>
+  <depend>voxblox_msgs</depend>
+</package>
