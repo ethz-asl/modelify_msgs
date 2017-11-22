@@ -1,3 +1,3 @@
 modelify_msgs/GsmUpdate gsm_update
 ---
-modelify_msgs/VoxelEvaluationDetails voxel_evaluation_details
+modelify_msgs/VoxelEvaluationDetails[] voxel_evaluation_details
