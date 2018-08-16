@@ -1,0 +1,7 @@
+uint32 object_id
+---
+bool success
+sensor_msgs/PointCloud2 object_point_cloud
+sensor_msgs/PointCloud2 object_point_cloud_downsampled
+sensor_msgs/PointCloud2 keypoint_cloud_2d
+sensor_msgs/PointCloud2 descriptor_cloud_2d
