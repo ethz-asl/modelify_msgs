@@ -1,0 +1,2 @@
+std_msgs/Header header
+modelify_msgs/MergeCandidatesCluster[] merge_candidates_clusters
