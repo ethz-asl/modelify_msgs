@@ -1,3 +1,4 @@
 std_msgs/Header header
-uint32 label
+string label
+sensor_msgs/Image image
 geometry_msgs/Transform T_W_S
