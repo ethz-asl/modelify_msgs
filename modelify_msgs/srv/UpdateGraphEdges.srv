@@ -1,3 +1,3 @@
-modelify_msgs/GraphEdge[] nodes
+modelify_msgs/GraphEdge[] edges
 ---
 bool success
