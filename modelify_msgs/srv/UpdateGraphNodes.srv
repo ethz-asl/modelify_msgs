@@ -1,0 +1,3 @@
+modelify_msgs/GraphNode[] nodes
+---
+bool success
