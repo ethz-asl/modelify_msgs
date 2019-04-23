@@ -1,6 +1,6 @@
 # Layer definitions
-float64 block_size
-string layer_type 
+float64 block_size    # in meters
+string layer_type     # based on the features contained in the layer
 
 # Whether to send a full map or an incremental update.
 uint8 action   # See action defines below

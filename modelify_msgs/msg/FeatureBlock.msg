@@ -4,5 +4,5 @@ int32 x_index
 int32 y_index
 int32 z_index
 
-# Voxel data packed in 4-byte chunks to better mirror protobuf serialization.
+# Block data packed in 4-byte chunks to better mirror protobuf serialization.
 uint32[] data
