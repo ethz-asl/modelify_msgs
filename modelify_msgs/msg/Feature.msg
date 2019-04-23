@@ -1,6 +1,6 @@
-float64 x
-float64 y
-float64 z
-float64 scale
-float64 response
+float32 x
+float32 y
+float32 z
+float32 scale
+float32 response
 float32[] descriptor
