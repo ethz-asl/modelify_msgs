@@ -1,5 +1,6 @@
 # Layer definitions
 float64 block_size    # in meters
+uint32 feature_descriptor_size
 string layer_type     # based on the features contained in the layer
 
 # Whether to send a full map or an incremental update.
