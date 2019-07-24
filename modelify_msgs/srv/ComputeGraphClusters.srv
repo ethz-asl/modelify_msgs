@@ -1,2 +1,3 @@
+string current_session
 ---
 modelify_msgs/GraphCluster[] clusters
